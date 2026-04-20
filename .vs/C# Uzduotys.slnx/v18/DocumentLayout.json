@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#\\Product\\Product\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#\\Product\\Product\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\PorductHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#\\Product\\Product\\PorductHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#\\Product\\Product\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PorductHelper.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\PorductHelper.cs",
               "RelativeDocumentMoniker": "C#\\Product\\Product\\PorductHelper.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\PorductHelper.cs",
               "RelativeToolTip": "C#\\Product\\Product\\PorductHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:38:29.088Z"
+              "WhenOpened": "2026-04-20T14:38:29.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Product.cs",
               "RelativeDocumentMoniker": "C#\\Product\\Product\\Product.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Product.cs",
               "RelativeToolTip": "C#\\Product\\Product\\Product.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAIAwwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T14:38:27.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Program.cs",
               "RelativeDocumentMoniker": "C#\\Product\\Product\\Program.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\Product\\Product\\Program.cs",
               "RelativeToolTip": "C#\\Product\\Product\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:38:23.354Z"
+              "WhenOpened": "2026-04-20T14:38:23.354Z",
+              "EditorCaption": ""
             }
           ]
         }
