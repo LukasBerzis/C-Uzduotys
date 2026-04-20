@@ -1,0 +1,5 @@
+Petras Petraitis, Age: 45, City: Klaipėda
+Tomas Tomaitis, Age: 35, City: Panevėžys
+Ona Onaite, Age: 30, City: Kaunas
+Rasa Rasaite, Age: 28, City: Alytus
+Jonas Jonaitis, Age: 25, City: Vilnius

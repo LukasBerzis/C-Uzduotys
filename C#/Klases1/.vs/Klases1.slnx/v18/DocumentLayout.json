@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|c:\\users\\lukas\\desktop\\c#\\klases1\\klases1\\filterpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|solutionrelative:klases1\\filterpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|c:\\users\\lukas\\desktop\\c#\\klases1\\klases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|solutionrelative:klases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|c:\\users\\lukas\\desktop\\c#\\klases1\\klases1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|solutionrelative:klases1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|c:\\users\\lukas\\desktop\\c#\\klases1\\klases1\\sortpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|solutionrelative:klases1\\sortpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|c:\\users\\lukas\\desktop\\c#\\klases1\\klases1\\bin\\debug\\net10.0\\sarasasperson.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0813CC9A-2D81-930A-93B1-0767C8672796}|Klases1\\Klases1.csproj|solutionrelative:klases1\\bin\\debug\\net10.0\\sarasasperson.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortPeople.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\SortPeople.cs",
+              "RelativeDocumentMoniker": "Klases1\\SortPeople.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\SortPeople.cs",
+              "RelativeToolTip": "Klases1\\SortPeople.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:58:14.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterPeople.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\FilterPeople.cs",
+              "RelativeDocumentMoniker": "Klases1\\FilterPeople.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\FilterPeople.cs",
+              "RelativeToolTip": "Klases1\\FilterPeople.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:56:44.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\Person.cs",
+              "RelativeDocumentMoniker": "Klases1\\Person.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\Person.cs",
+              "RelativeToolTip": "Klases1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:57:43.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\Program.cs",
+              "RelativeDocumentMoniker": "Klases1\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\Program.cs",
+              "RelativeToolTip": "Klases1\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:56:33.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sarasasPerson.txt",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\bin\\Debug\\net10.0\\sarasasPerson.txt",
+              "RelativeDocumentMoniker": "Klases1\\bin\\Debug\\net10.0\\sarasasPerson.txt",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Klases1\\Klases1\\bin\\Debug\\net10.0\\sarasasPerson.txt",
+              "RelativeToolTip": "Klases1\\bin\\Debug\\net10.0\\sarasasPerson.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-16T13:40:17.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

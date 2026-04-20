@@ -1,0 +1,14 @@
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\bin\Debug\net10.0\Klases1.exe
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\bin\Debug\net10.0\Klases1.deps.json
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\bin\Debug\net10.0\Klases1.runtimeconfig.json
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\bin\Debug\net10.0\Klases1.dll
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\bin\Debug\net10.0\Klases1.pdb
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.AssemblyInfo.cs
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.dll
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\refint\Klases1.dll
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.pdb
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\Klases1.genruntimeconfig.cache
+C:\Users\lukas\Desktop\C#\Klases1\Klases1\obj\Debug\net10.0\ref\Klases1.dll

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\C#\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|c:\\users\\lukas\\desktop\\c#\\product\\product\\porducthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|solutionrelative:product\\porducthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|c:\\users\\lukas\\desktop\\c#\\product\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|c:\\users\\lukas\\desktop\\c#\\product\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F5BAD8-87DF-4060-B1CB-CA6D9EF3702B}|Product\\Product.csproj|solutionrelative:product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Product\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\Program.cs",
+              "RelativeToolTip": "Product\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:57:56.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PorductHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\PorductHelper.cs",
+              "RelativeDocumentMoniker": "Product\\PorductHelper.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\PorductHelper.cs",
+              "RelativeToolTip": "Product\\PorductHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:20:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "Product\\Product.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\Product\\Product\\Product.cs",
+              "RelativeToolTip": "Product\\Product.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:05:11.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
