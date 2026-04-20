@@ -26,3 +26,4 @@ C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Product\Product\obj\Debug\net10.0
 C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Product\Product\obj\Debug\net10.0\Product.pdb
 C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Product\Product\obj\Debug\net10.0\Product.genruntimeconfig.cache
 C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Product\Product\obj\Debug\net10.0\ref\Product.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Product\Product\obj\Debug\net10.0\Product.sourcelink.json
