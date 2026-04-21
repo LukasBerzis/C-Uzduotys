@@ -6,7 +6,13 @@ namespace GeoFigures
 {
     internal abstract class Shape
     {
-        public abstract double GetArea();
-        public abstract double GetPerimeter();
+        public virtual double GetArea()
+        {
+            return 0;
+        }
+        public virtual double GetPerimeter()
+        {
+            return 0;
+        }
     }
 }
