@@ -22,6 +22,12 @@ namespace MyApp
                 Console.WriteLine($"Area: {shape.GetArea():F2}, Perimeter: {shape.GetPerimeter():F2}");
             }
 
+            double totalArea = ShapeHelper.CalculateArea(shapes );
+            double totalPerimeter = ShapeHelper.CalculatePerimeter(shapes);
+
+            Console.WriteLine($"total area: {totalArea:F2}");
+            Console.WriteLine($"total perimeter: {totalPerimeter:F2}");
+
             Circle circle1 = new Circle();
             circle1.Radius = 5;
 

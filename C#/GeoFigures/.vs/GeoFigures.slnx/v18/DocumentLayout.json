@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\shapehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\shapehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\ShapeHelper.cs",
+              "RelativeDocumentMoniker": "GeoFigures\\ShapeHelper.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\ShapeHelper.cs",
+              "RelativeToolTip": "GeoFigures\\ShapeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:58:06.722Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "GeoFigures\\Rectangle.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Rectangle.cs",
               "RelativeToolTip": "GeoFigures\\Rectangle.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:26:13.76Z",
               "EditorCaption": ""
@@ -60,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
               "RelativeDocumentMoniker": "GeoFigures\\Circle.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
               "RelativeToolTip": "GeoFigures\\Circle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:03:21.234Z",
               "EditorCaption": ""
@@ -79,20 +96,20 @@
               "RelativeDocumentMoniker": "GeoFigures\\Program.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Program.cs",
               "RelativeToolTip": "GeoFigures\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:02:19.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "shape.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\shape.cs",
               "RelativeDocumentMoniker": "GeoFigures\\shape.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\shape.cs",
               "RelativeToolTip": "GeoFigures\\shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T12:33:03.717Z",
               "EditorCaption": ""
