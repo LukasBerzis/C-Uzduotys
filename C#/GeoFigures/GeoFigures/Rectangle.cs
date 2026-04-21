@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GeoFigures
 {
-    internal class Rectangle
+    internal class Rectangle : Shape
     {
         private int width;
         private int height;
@@ -48,12 +48,12 @@ namespace GeoFigures
             Height = height;
         }
 
-        public double GetArea()
+        public override double GetArea()
         {
             return width * height;
         }
 
-        public double GetPerimeter()
+        public override double GetPerimeter()
         {
             return 2 * (width + height);
         }

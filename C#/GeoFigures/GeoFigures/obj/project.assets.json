@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\GeoFigures.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\GeoFigures.csproj",
       "projectName": "GeoFigures",
-      "projectPath": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\GeoFigures.csproj",
+      "projectPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\GeoFigures.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\obj\\",
+      "outputPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

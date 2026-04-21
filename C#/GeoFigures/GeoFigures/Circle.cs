@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GeoFigures
 {
-    internal class Circle
+    internal class Circle : Shape
     {
         public int Radius { get; set; }
 
@@ -18,12 +18,12 @@ namespace GeoFigures
             Radius = radius;
         }
 
-        public double GetArea()
+        public override double GetArea()
         {
             return Math.PI * Radius * Radius;
         }
 
-        public double GetPerimeter()
+        public override double GetPerimeter()
         {
             return 2 * Math.PI * Radius;
         }

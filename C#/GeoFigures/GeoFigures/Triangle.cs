@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GeoFigures
 {
-    internal class Triangle
+    internal class Triangle : Shape
     {
             public int Base { get; set; }
             public int Height { get; set; }
@@ -21,12 +21,12 @@ namespace GeoFigures
             Height = triangleHeight;
         }
 
-        public double GetArea()
+        public override double GetArea()
         {
             return (Base * Height) / 2.0;
         }
 
-        public double GetPerimeter()
+        public override double GetPerimeter()
         {
             double izambine = Math.Sqrt(Base * Base + Height * Height);
             return Base + Height + izambine;

@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\",
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\desktop\\c#\\geofigures\\geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\desktop\\c#\\geofigures\\geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\desktop\\c#\\geofigures\\geofigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\desktop\\c#\\geofigures\\geofigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\geofigures\\geofigures\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B81885F-DA51-4BDE-05FC-C39EC8084F74}|GeoFigures\\GeoFigures.csproj|solutionrelative:geofigures\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "shape.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\shape.cs",
+              "RelativeDocumentMoniker": "GeoFigures\\shape.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\shape.cs",
+              "RelativeToolTip": "GeoFigures\\shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:33:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeoFigures\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Rectangle.cs",
               "RelativeToolTip": "GeoFigures\\Rectangle.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAxwDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T12:26:13.76Z",
               "EditorCaption": ""
@@ -45,37 +62,40 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Triangle.cs",
               "RelativeDocumentMoniker": "GeoFigures\\Triangle.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Triangle.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Triangle.cs",
               "RelativeToolTip": "GeoFigures\\Triangle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:09:28.563Z"
+              "WhenOpened": "2026-04-16T12:09:28.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
               "RelativeDocumentMoniker": "GeoFigures\\Circle.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Circle.cs",
               "RelativeToolTip": "GeoFigures\\Circle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:03:21.234Z"
+              "WhenOpened": "2026-04-16T12:03:21.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Program.cs",
               "RelativeDocumentMoniker": "GeoFigures\\Program.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\C#\\GeoFigures\\GeoFigures\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\GeoFigures\\GeoFigures\\Program.cs",
               "RelativeToolTip": "GeoFigures\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T12:02:19.387Z"
+              "WhenOpened": "2026-04-16T12:02:19.387Z",
+              "EditorCaption": ""
             }
           ]
         }
