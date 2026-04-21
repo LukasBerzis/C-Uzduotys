@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoFigures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c7fe6296cf14e7cfe7b4cf7f8a4d47dfc4c5168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00f65ff173ce29214fc996d3d215690659967dcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoFigures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoFigures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
