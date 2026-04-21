@@ -27,5 +27,28 @@ namespace SchoolManagement_projektas
             HireDate = hiredate;
         }
 
+        public override string GetRole()
+        {
+            return "Staff";
+        }
+
+        public override string GetProfile()
+        {
+            return
+                $"STAFF PROFILE\n" +
+                $"Name: {FirstName} {LastName}\n" +
+                $"Birthday: {Birthday:yyyy-MM-dd}\n" +
+                $"Email: {Email}\n" +
+                $"Employee ID: {EmployeeId}\n" +
+                $"Department: {Department}\n" +
+                $"Salary: {Salary}\n" +
+                $"Hire Date: {HireDate:yyyy-MM-dd}";
+        }
+
+        public override string GetContactInfo()
+        {
+            return $"Email: {Email}, Department: {Department}";
+        }
+
     }
 }

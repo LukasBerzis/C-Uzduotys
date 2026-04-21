@@ -33,5 +33,14 @@ namespace SchoolManagement_projektas
         {
             return $"{FirstName} {LastName}";
         }
+
+        public abstract string GetRole();
+
+        public abstract string GetProfile();
+
+        public virtual string GetContactInfo()
+        {
+            return Email;
+        }
     }
 }
