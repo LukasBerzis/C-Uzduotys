@@ -12,3 +12,18 @@ C:\Users\lukas\Desktop\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\refint\GeoFigu
 C:\Users\lukas\Desktop\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.pdb
 C:\Users\lukas\Desktop\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.genruntimeconfig.cache
 C:\Users\lukas\Desktop\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\ref\GeoFigures.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\bin\Debug\net10.0\GeoFigures.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\bin\Debug\net10.0\GeoFigures.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\bin\Debug\net10.0\GeoFigures.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\bin\Debug\net10.0\GeoFigures.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\bin\Debug\net10.0\GeoFigures.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\refint\GeoFigures.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\GeoFigures.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\GeoFigures\GeoFigures\obj\Debug\net10.0\ref\GeoFigures.dll

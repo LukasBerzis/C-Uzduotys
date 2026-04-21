@@ -7,6 +7,21 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+            List<Shape> shapes = new List<Shape>()
+            {
+                new Rectangle(5, 10),
+                new Circle(3),
+                new Triangle(3, 4),
+                new Rectangle(2, 6),
+                new Circle(7)
+            };
+
+            foreach (var shape in shapes)
+            {
+                //F2 dviem skaiciaus po kablelio
+                Console.WriteLine($"Area: {shape.GetArea():F2}, Perimeter: {shape.GetPerimeter():F2}");
+            }
+
             Circle circle1 = new Circle();
             circle1.Radius = 5;
 
@@ -27,7 +42,7 @@ namespace MyApp
             Circle circle7 = new Circle { Radius = 90 }; ;
 
             Circle circle8 = new Circle { Radius = 30 }; ;
-      
+
             Circle circle9 = new Circle { Radius = 70 }; ;
 
             Triangle triangle1 = new Triangle
@@ -63,7 +78,11 @@ namespace MyApp
             Rectangle rectangle1 = new Rectangle();
             rectangle1.Width = 10;
             rectangle1.Height = 5;
+
+
             //rectangle1.Width = -3;
+
+              
         }
     }
 }
