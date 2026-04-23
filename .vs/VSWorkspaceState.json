@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\C#",
-    "\\C#\\GeoFigures",
-    "\\C#\\GeoFigures\\GeoFigures",
-    "\\C#\\Product\\Product"
+    "\\C#\\1Dalis",
+    "\\C#\\1Dalis\\Kartojimas_KMI_Skaiciuotuvas",
+    "\\C#\\1Dalis\\Kartojimas_KMI_Skaiciuotuvas\\Kartojimas_KMI_Skaiciuotuvas",
+    "\\C#\\1Dalis\\Slaptažodžių Generatorius",
+    "\\C#\\1Dalis\\Slaptažodžių Generatorius\\Slaptažodžių Generatorius"
   ],
-  "SelectedNode": "\\C#\\GeoFigures\\GeoFigures.slnx",
+  "SelectedNode": "\\C#\\1Dalis\\Slaptažodžių Generatorius\\Slaptažodžių Generatorius\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

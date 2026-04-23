@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\bin\Debug\net10.0\Kartuvės Žaidimas.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\bin\Debug\net10.0\Kartuvės Žaidimas.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\bin\Debug\net10.0\Kartuvės Žaidimas.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\bin\Debug\net10.0\Kartuvės Žaidimas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\bin\Debug\net10.0\Kartuvės Žaidimas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\refint\Kartuvės Žaidimas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\Kartuvės Žaidimas.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartuvės Žaidimas\Kartuvės Žaidimas\obj\Debug\net10.0\ref\Kartuvės Žaidimas.dll
