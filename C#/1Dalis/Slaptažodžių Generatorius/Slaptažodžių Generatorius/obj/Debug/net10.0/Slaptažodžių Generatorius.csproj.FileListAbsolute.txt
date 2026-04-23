@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\bin\Debug\net10.0\Slaptažodžių Generatorius.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\bin\Debug\net10.0\Slaptažodžių Generatorius.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\bin\Debug\net10.0\Slaptažodžių Generatorius.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\bin\Debug\net10.0\Slaptažodžių Generatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\bin\Debug\net10.0\Slaptažodžių Generatorius.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\refint\Slaptažodžių Generatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\Slaptažodžių Generatorius.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1Dalis\Slaptažodžių Generatorius\Slaptažodžių Generatorius\obj\Debug\net10.0\ref\Slaptažodžių Generatorius.dll

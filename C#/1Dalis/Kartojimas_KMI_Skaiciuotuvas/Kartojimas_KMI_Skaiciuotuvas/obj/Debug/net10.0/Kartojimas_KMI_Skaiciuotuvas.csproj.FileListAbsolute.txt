@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\bin\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\bin\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\bin\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\bin\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\bin\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\refint\Kartojimas_KMI_Skaiciuotuvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\Kartojimas_KMI_Skaiciuotuvas.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Kartojimas_KMI_Skaiciuotuvas\Kartojimas_KMI_Skaiciuotuvas\obj\Debug\net10.0\ref\Kartojimas_KMI_Skaiciuotuvas.dll
