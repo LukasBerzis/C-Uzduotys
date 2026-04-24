@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\bin\Debug\net10.0\mokinių vardus.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\bin\Debug\net10.0\mokinių vardus.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\bin\Debug\net10.0\mokinių vardus.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\bin\Debug\net10.0\mokinių vardus.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\bin\Debug\net10.0\mokinių vardus.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\refint\mokinių vardus.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\mokinių vardus.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\mokinių vardus\mokinių vardus\obj\Debug\net10.0\ref\mokinių vardus.dll

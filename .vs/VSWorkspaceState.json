@@ -3,11 +3,16 @@
     "",
     "\\C#",
     "\\C#\\1Dalis",
-    "\\C#\\1Dalis\\Kartojimas_KMI_Skaiciuotuvas",
-    "\\C#\\1Dalis\\Kartojimas_KMI_Skaiciuotuvas\\Kartojimas_KMI_Skaiciuotuvas",
     "\\C#\\1Dalis\\Slaptažodžių Generatorius",
-    "\\C#\\1Dalis\\Slaptažodžių Generatorius\\Slaptažodžių Generatorius"
+    "\\C#\\1Dalis\\Slaptažodžių Generatorius\\Slaptažodžių Generatorius",
+    "\\C#\\mokinių vardus\\mokinių vardus\\bin",
+    "\\C#\\mokinių vardus\\mokinių vardus\\bin\\Debug\\net10.0",
+    "\\C#\\Sudoku Validatorius",
+    "\\C#\\Sudoku Validatorius\\Sudoku Validatorius",
+    "\\C#\\Sudoku Validatorius\\Sudoku Validatorius\\bin",
+    "\\C#\\Sudoku Validatorius\\Sudoku Validatorius\\bin\\Debug",
+    "\\C#\\Sudoku Validatorius\\Sudoku Validatorius\\bin\\Debug\\net10.0"
   ],
-  "SelectedNode": "\\C#\\1Dalis\\Slaptažodžių Generatorius\\Slaptažodžių Generatorius\\Program.cs",
+  "SelectedNode": "\\C#\\Sudoku Validatorius\\Sudoku Validatorius\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

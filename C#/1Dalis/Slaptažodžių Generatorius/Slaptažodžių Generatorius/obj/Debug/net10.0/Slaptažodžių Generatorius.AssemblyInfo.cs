@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slaptažodžių Generatorius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00f65ff173ce29214fc996d3d215690659967dcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a598070ec4aee91a77f884cbd818891470b29cd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slaptažodžių Generatorius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slaptažodžių Generatorius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
