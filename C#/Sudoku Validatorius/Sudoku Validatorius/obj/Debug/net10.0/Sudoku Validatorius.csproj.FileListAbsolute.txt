@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\bin\Debug\net10.0\Sudoku Validatorius.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\bin\Debug\net10.0\Sudoku Validatorius.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\bin\Debug\net10.0\Sudoku Validatorius.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\bin\Debug\net10.0\Sudoku Validatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\bin\Debug\net10.0\Sudoku Validatorius.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\refint\Sudoku Validatorius.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\Sudoku Validatorius.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\Sudoku Validatorius\Sudoku Validatorius\obj\Debug\net10.0\ref\Sudoku Validatorius.dll

@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\bin\Debug\net10.0\1000 Elementu masyvas.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\bin\Debug\net10.0\1000 Elementu masyvas.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\bin\Debug\net10.0\1000 Elementu masyvas.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\bin\Debug\net10.0\1000 Elementu masyvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\bin\Debug\net10.0\1000 Elementu masyvas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\refint\1000 Elementu masyvas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\1000 Elementu masyvas.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\1000 Elementu masyvas\1000 Elementu masyvas\obj\Debug\net10.0\ref\1000 Elementu masyvas.dll
