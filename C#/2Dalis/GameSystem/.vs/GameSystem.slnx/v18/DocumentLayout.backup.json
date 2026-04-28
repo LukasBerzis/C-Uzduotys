@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\2Dalis\\GameSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFF063-2099-4797-ADA5-BBA763ADF7DB}|GameSystem\\GameSystem.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\2dalis\\gamesystem\\gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFF063-2099-4797-ADA5-BBA763ADF7DB}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\2Dalis\\GameSystem\\GameSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GameSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\2Dalis\\GameSystem\\GameSystem\\Program.cs",
+              "RelativeToolTip": "GameSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:16:15.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
