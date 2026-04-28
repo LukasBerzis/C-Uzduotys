@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\undergraduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|solutionrelative:schoolmanagement projektas\\undergraduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|solutionrelative:schoolmanagement projektas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|solutionrelative:schoolmanagement projektas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|solutionrelative:schoolmanagement projektas\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|c:\\users\\lukas\\documents\\github\\c# uzduotys\\c#\\schoolmanagement projektas\\schoolmanagement projektas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73879831-2335-79AB-9CAA-EF698367EEC7}|SchoolManagement projektas\\SchoolManagement projektas.csproj|solutionrelative:schoolmanagement projektas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnderGraduateStudent.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\UnderGraduateStudent.cs",
-              "RelativeDocumentMoniker": "SchoolManagement projektas\\UnderGraduateStudent.cs",
-              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\UnderGraduateStudent.cs",
-              "RelativeToolTip": "SchoolManagement projektas\\UnderGraduateStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T17:22:29.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Staff.cs",
               "RelativeDocumentMoniker": "SchoolManagement projektas\\Staff.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Staff.cs",
               "RelativeToolTip": "SchoolManagement projektas\\Staff.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:56:54.338Z"
+              "WhenOpened": "2026-04-28T14:52:00.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolManagement projektas\\Student.cs",
-              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Student.cs",
-              "RelativeToolTip": "SchoolManagement projektas\\Student.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwDAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:32:30.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Person.cs",
-              "RelativeDocumentMoniker": "SchoolManagement projektas\\Person.cs",
-              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Person.cs",
-              "RelativeToolTip": "SchoolManagement projektas\\Person.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:22:03.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Program.cs",
               "RelativeDocumentMoniker": "SchoolManagement projektas\\Program.cs",
               "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Program.cs",
               "RelativeToolTip": "SchoolManagement projektas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwHUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:10:03.874Z"
+              "WhenOpened": "2026-04-21T13:10:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Person.cs",
+              "RelativeDocumentMoniker": "SchoolManagement projektas\\Person.cs",
+              "ToolTip": "C:\\Users\\lukas\\Documents\\GitHub\\C# Uzduotys\\C#\\SchoolManagement projektas\\SchoolManagement projektas\\Person.cs",
+              "RelativeToolTip": "SchoolManagement projektas\\Person.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:22:03.729Z",
+              "EditorCaption": ""
             }
           ]
         }

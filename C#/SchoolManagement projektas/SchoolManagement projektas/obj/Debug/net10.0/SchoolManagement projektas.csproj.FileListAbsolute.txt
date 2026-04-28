@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\bin\Debug\net10.0\SchoolManagement projektas.exe
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\bin\Debug\net10.0\SchoolManagement projektas.deps.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\bin\Debug\net10.0\SchoolManagement projektas.runtimeconfig.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\bin\Debug\net10.0\SchoolManagement projektas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\bin\Debug\net10.0\SchoolManagement projektas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.AssemblyInfo.cs
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.sourcelink.json
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\refint\SchoolManagement projektas.dll
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.pdb
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\SchoolManagement projektas.genruntimeconfig.cache
+C:\Users\lukas\Documents\GitHub\C# Uzduotys\C#\SchoolManagement projektas\SchoolManagement projektas\obj\Debug\net10.0\ref\SchoolManagement projektas.dll

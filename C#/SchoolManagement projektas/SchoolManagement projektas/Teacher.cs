@@ -44,5 +44,17 @@ namespace SchoolManagement_projektas
                 $"Courses Taught: {string.Join(", ", CoursesTaught)}\n" +
                 $"Teaching rating: {TeachingRating}";
         }
+
+        public override decimal CalculateAnnualBonus()
+        {
+           decimal bonus = base.CalculateAnnualBonus();
+
+            if (TeachingRating >= 4.5)
+            {
+                bonus += bonus * 0.10m;
+            }
+
+            return bonus;
+        }
     }
 }
