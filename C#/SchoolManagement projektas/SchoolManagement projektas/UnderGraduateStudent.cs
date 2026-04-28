@@ -44,5 +44,31 @@ namespace SchoolManagement_projektas
                  $"Minor: {Minor}\n" +
                  $"Total Credits: {TotalCredits}";
         }
+
+        public override string GetAcademicStanding()
+        {
+            string standing = base.GetAcademicStanding();
+
+            string courseLevel;
+
+            if (TotalCredits < 30)
+            {
+                courseLevel = "Freshman";
+            }
+            else if (TotalCredits < 60)
+            {
+                courseLevel = "Sophomore";
+            }
+            else if (TotalCredits < 90)
+            {
+                courseLevel = "Junior";
+            }
+            else
+            {
+                courseLevel = "Senior";
+            }
+
+            return $"{standing} - {courseLevel}";
+        }
     }
 }

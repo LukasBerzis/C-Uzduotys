@@ -8,7 +8,7 @@ namespace SchoolManagement_projektas
     {
         public int EmployeeId { get; set; }
         public string Department {  get; set; }
-        public double Salary { get; set; }
+        public decimal Salary { get; set; }
         public DateTime HireDate { get; set; }
 
         public Staff() : base()
@@ -19,7 +19,7 @@ namespace SchoolManagement_projektas
             HireDate = DateTime.MinValue;
         }
 
-        public Staff(string firstname, string lastname, DateTime birthday, string email, int employeeid, string department, double salary, DateTime hiredate) : base(firstname,lastname, birthday, email)
+        public Staff(string firstname, string lastname, DateTime birthday, string email, int employeeid, string department, decimal salary, DateTime hiredate) : base(firstname,lastname, birthday, email)
         {
             EmployeeId=employeeid;
             Department=department;
@@ -48,6 +48,32 @@ namespace SchoolManagement_projektas
         public override string GetContactInfo()
         {
             return $"Email: {Email}, Department: {Department}";
+        }
+
+        public virtual decimal CalculateAnnualBonus()
+        {
+           decimal BazinisBonusas = 5m;
+           int BonusoMetuStazas = 5;
+           DateTime Today = DateTime.Now;
+
+            int yearsWorked = Today.Year - HireDate.Year;
+
+            if (Today < HireDate.AddYears(yearsWorked))
+            {
+                yearsWorked--;
+            }
+
+            if (yearsWorked >= 5)
+            {
+                int multiplier = (int)Math.Floor((double)yearsWorked / BonusoMetuStazas);
+
+                decimal totalBonusPercent = BazinisBonusas * multiplier;
+
+                return Salary * (totalBonusPercent / 100);
+            }
+
+            return 0;
+            
         }
 
     }
